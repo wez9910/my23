@@ -4,7 +4,7 @@
   <p>功能1</p>
   <p>功能2</p>
   <p>功能3</p>
-
+  <p>功能4</p>
 </template>
 
 <script lang="ts">
