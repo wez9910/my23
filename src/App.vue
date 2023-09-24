@@ -7,6 +7,8 @@
   <p>功能4</p>
   <p>功能5</p>
   <p>功能6</p>
+  <p>功能7</p>
+
 </template>
 
 <script lang="ts">
